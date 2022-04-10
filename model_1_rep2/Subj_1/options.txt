@@ -1,0 +1,1 @@
+Namespace(exp='EMG_training_trans/model_1_rep2/Subj_1', sub_idx=1, seq_len=64, permute_img=False, max_len=150, grid=(8, 8), n_classes=66, embed_dim=64, depth=1, n_heads=8, mlp_ratio=3, p=0, attn_p=0.27, epochs=20, batch_size=128, shuffle=True, num_workers=0, cuda=True, lr=0.0005, weight_decay=0.001, fff='1')
