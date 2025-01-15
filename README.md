@@ -2,4 +2,4 @@
  
 
 * Comparing a typical transformer’s performance with a Vision Transformer in classifying hand gestures from High-Density sEMG signals.
-
+* This is a sub-project of the **Vision Transformer-based Gesture Recognition** repository.
